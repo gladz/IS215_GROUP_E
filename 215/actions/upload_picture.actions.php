@@ -79,4 +79,3 @@ $s3 = new S3Client([
 //	alert('<?php echo $alert;?>')
 	window.location = "<?php echo $win_loc; ?>"
 </script>
-
