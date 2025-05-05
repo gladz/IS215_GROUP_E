@@ -5,3 +5,14 @@
 3. In the AWS Lambda, set the environment variables: BUCKET (name of AWS S3) and OPENAI_CUSTOM_KEY.
 
 Note: Use **AWS Cloudwatch** to debug.
+
+**Group E Members:**
+
+1. Gladilyn Abella
+2. Jade Espinar
+3. Alvin Fernando
+4. Bryan Malinao (Bri)
+5. Gregory Martin (Greg)
+6. Loida Mae Payao
+7. Eugene Paul Brian Sebilo
+8. Maureen Senit (Maui)
