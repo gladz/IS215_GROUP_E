@@ -149,7 +149,7 @@
         <p class="small">Every photo has a story</p>
       </div>
     </div>
-    <div class="text-center small mt-4">© 2025 PicTell. All rights reserved.</div>
+    <div class="text-center small mt-4">Â© 2025 PicTell. All rights reserved.</div>
   </div>
 </footer>
 
